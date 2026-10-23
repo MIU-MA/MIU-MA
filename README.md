@@ -10,7 +10,7 @@
 
 ### 关于
 
-- 🔭 现在在写 **Resume Grill**：把简历里的项目变成一场追问，挖出知识漏洞再给改写建议
+- 🔭 我喜欢睡觉
 - 🌱 在补算法和浏览器底层，偶尔刷两道题
 - ✍️ 喜欢干净的类型、克制的动效，和一个能按时睡觉的夜晚
 
@@ -29,4 +29,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<p align="center"><sub>折腾记录都放在 <a href="https://miuma-blog.vercel.app/">博客</a> 里。</sub></p>
+<p align="center"><sub>欢迎访问我的 <a href="https://miuma-blog.vercel.app/">小窝</a> 里。</sub></p>
