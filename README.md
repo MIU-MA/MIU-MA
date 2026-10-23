@@ -3,7 +3,7 @@
   <h3>你好，我是 MIUMA 👋</h3>
   <p>前端开发<br>写 Vue / Nuxt，也写 React / Next</p>
   <p>
-    <a href="https://miuma-blog.vercel.app/"><img src="https://img.shields.io/badge/Blog-141110?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
+    <a href="https://www.miuma.top//"><img src="https://img.shields.io/badge/Blog-141110?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
     <a href="https://github.com/MIU-MA"><img src="https://img.shields.io/badge/GitHub-141110?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 </div>
