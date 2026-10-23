@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MIU-MA/MIU-MA/main/assets/avatar.png" width="112" height="112" alt="MIUMA" />
   <h3>你好，我是 MIUMA 👋</h3>
-  <p>前端开发 · 江西财经大学在读<br>写 Vue / Nuxt，也写 React / Next</p>
+  <p>前端开发<br>写 Vue / Nuxt，也写 React / Next</p>
   <p>
     <a href="https://miuma-blog.vercel.app/"><img src="https://img.shields.io/badge/Blog-141110?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
     <a href="https://github.com/MIU-MA"><img src="https://img.shields.io/badge/GitHub-141110?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -29,4 +29,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<p align="center"><sub>欢迎访问我的 <a href="https://miuma-blog.vercel.app/">小窝</a> 里。</sub></p>
+<p align="center"><sub>欢迎访问我的 <a href="https://miuma-blog.vercel.app/">小窝</a> </sub></p>
