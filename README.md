@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MIU-MA/MIU-MA/main/assets/avatar.png" width="112" height="112" alt="MIUMA" />
-  <h3>你好，我是 MIUMA 👋</h3>
-  <p>前端开发<br>写 Vue / Nuxt，也写 React / Next</p>
+  <h3>你好，我是 MIUMA</h3>
+  <p>前端开发<br> Vue / Nuxt， React / Next</p>
   <p>
     <a href="https://www.miuma.top//"><img src="https://img.shields.io/badge/Blog-141110?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
     <a href="https://github.com/MIU-MA"><img src="https://img.shields.io/badge/GitHub-141110?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -10,9 +10,9 @@
 
 ### 关于
 
-- 🔭 我喜欢睡觉
-- 🌱 在补算法和前端，偶尔刷两道题
-- ✍️ 还是喜欢睡觉
+- 🔭 喜欢睡觉
+- 🌱 半吊子ACMer
+- ✍️ 正在艰难求职
 
 ### 技术栈
 
